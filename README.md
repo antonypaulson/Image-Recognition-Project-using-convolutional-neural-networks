@@ -1,4 +1,4 @@
-# Deep-Learning-Classification-Project-using-convolutional-neural-networks
+# Image Recognition-using-convolutional-neural-networks
 This project was performed for classiication of 17 flower categories in the oxford dataset. The link to the dataset can be found below:
 http://www.robots.ox.ac.uk/~vgg/data/flowers/17/
 
